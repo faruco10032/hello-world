@@ -6,7 +6,7 @@ GitHub入門
 ## 自己紹介
 Name: Takayuki Kameoka
 
-Affiliation: The Unievrcity of Electro-cummunications
+Affiliation: The University of Electro-cummunications
 
 HP: http://kaji-lab.jp/ja/index.php?kameoka
 
